@@ -46,12 +46,12 @@ This ongoing research investigates multisensory conflicts in human-computer inte
 
 <ul>
   <li>
-    <strong>湖南省大学生数学竞赛一等奖</strong>
+    <strong>First Prize in the Hunan Province College Student Mathematics Competition</strong>
   </li>
   <li>
-    <strong>湖南省大学生计算机程序设计竞赛（ACM）铜牌</strong>
+    <strong>Bronze Medal, Hunan Collegiate Programming Contest (ACM)</strong>
   </li>
   <li>
-    <strong>“中国高校计算机大赛—团体程序设计天梯赛”团体一等奖</strong>
+    <strong>First Prize (Team Category) at the China Collegiate Computer Competition – Team Programming Ladder Tournament</strong>
   </li>
 </ul>
