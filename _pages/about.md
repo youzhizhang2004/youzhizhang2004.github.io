@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -13,31 +13,36 @@ redirect_from:
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
+
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
-I am currently a master's student at Northwestern University, studying under the supervision of Professor Tianren Luo<a href='https://faculty.nwu.edu.cn/luotianren/zh_CN/index.htm'>. My research interests lie in human-computer interaction (HCI) and virtual reality, as well as applications in augmented reality and mixed reality (AR/MR). Prior to joining Northwestern University, I primarily conducted research on IoT applications and system design. My current research focuses on multisensory conflicts in HCI, specifically investigating how cross-sensory information inconsistencies affect user perception and interaction experiences.
+<span class="anchor" id="about-me"></span>
+
+I am currently a master's student at Northwest University under the supervision of Professor [Tianren Luo](https://faculty.nwu.edu.cn/luotianren/zh_CN/index.htm). My research interests include human-computer interaction (HCI), virtual reality (VR), augmented reality (AR), and mixed reality (MR). Prior to joining Northwest University, my research focused on IoT applications and system design. My current work investigates multisensory conflicts in HCI, particularly how incongruent cross-modal cues influence user perception and interactive experiences.
 
 
-
+<span class="anchor" id="news"></span>
 
 # 🔥 News
-- *2026.08*: 🇨🇳 I will be attending the 2nd China Conference on Human-Computer Computing and the 22nd National Joint Conference on Harmonious Human-Computer Environments, and I look forward to exchanging ideas and learning from experts and scholars in the field of human-computer interaction.
+
+- *2026.08*: 🇨🇳 I will attend the 2nd China Conference on Human-Computer Computing and the 22nd National Joint Conference on Harmonious Human-Computer Environments. I look forward to exchanging ideas with researchers and scholars in the field of human-computer interaction.
 
 
-# 📝 Publications 
-# 🔬 在研工作
+<span class="anchor" id="research-in-progress"></span>
 
-### 人机交互中的多感官冲突研究
+# 🔬 Research in Progress
 
-本研究关注人机交互中的多感官冲突，旨在探究跨感官信息不一致对用户感知与交互体验的影响。
+### Multisensory Conflicts in Human-Computer Interaction
 
-- **状态：** 论文撰写中
+This ongoing research investigates multisensory conflicts in human-computer interaction, with a particular focus on how incongruent cross-modal cues influence user perception and interactive experiences.
+
+- **Status:** Manuscript in preparation
+
 
 <span class="anchor" id="honors-and-awards"></span>
 
-<h1>🏆 Honors and Awards</h1>
+# 🏆 Honors and Awards
 
 <ul>
   <li>
