@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Youzhi Zhang 张又支"
-  avatar           : "images/image1.jpg"
+  avatar           : "image1.jpg"
   bio              : "Master's student researching human-computer interaction, virtual reality, and multisensory perception."
   location         : "Shanxi, China"
   employer         :
